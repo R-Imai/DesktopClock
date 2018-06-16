@@ -35,15 +35,10 @@ color: #ffffff;
 
 
 ## 実行方法
-方法1,
 ```
 npm run start
 ```
 
-方法2,
-```
-electron .
-```
 
 ## パッケージ化方法
 ```
