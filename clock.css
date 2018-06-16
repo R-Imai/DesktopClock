@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'dots';
+    src: url('./font/Pocket_Calculator/POCKC___.TTF');
+}
+
+body {
+    background-color: rgba(24, 24, 24, .7);
+    -webkit-app-region: drag;
+    -webkit-user-select: none;
+}
+
+.display-space{
+}
+
+.clock-space{
+    color: #ffffff;
+    display: inline;
+    font-size: 30px;
+    font-family:'dots';
+}
